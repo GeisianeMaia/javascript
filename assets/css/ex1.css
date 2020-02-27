@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+.verde{
+    background-color: rgb(223, 252, 223);
+    padding: 10px;
+}
+
+.vermelha{
+    background-color: rgb(243, 96, 96);
+    padding: 10px;
+}
+
+#caixa{
+    width: 40%;
+    margin: 0 auto;
+    border: solid #000 1px;
+}
+
+#titulo, #subtitulo{
+ text-align: center;
+}
+
+
